@@ -260,8 +260,8 @@ Check your internet connection and API status.
 
 ## 📱 Connect
 
-**GitHub:** [@yourusername](https://github.com/yourusername)  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)  
+**GitHub:** [@yourusername](https://github.com/vak3368)  
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vishnuanilkumar3/)  
 
 ## 📄 License
 
