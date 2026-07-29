@@ -262,7 +262,7 @@ Check your internet connection and API status.
 
 **GitHub:** [@yourusername](https://github.com/vak3368)  
 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vishnuanilkumar3/)  
-
+##
 ## 📄 License
 
 MIT License - Feel free to use this for learning and projects!
